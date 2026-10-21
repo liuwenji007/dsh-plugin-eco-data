@@ -1,0 +1,229 @@
+{
+  "ok": 37,
+  "bad": 0,
+  "skip": 0,
+  "rows": [
+    {
+      "key": "scale.awesomeCount",
+      "node": 6084,
+      "python": 6084,
+      "match": "yes"
+    },
+    {
+      "key": "scale.uniqueRepos",
+      "node": 5867,
+      "python": 5867,
+      "match": "yes"
+    },
+    {
+      "key": "scale.subdir",
+      "node": 625,
+      "python": 625,
+      "match": "yes"
+    },
+    {
+      "key": "scale.uniqueNames",
+      "node": 5641,
+      "python": 5641,
+      "match": "yes"
+    },
+    {
+      "key": "scale.nameGap",
+      "node": 443,
+      "python": 443,
+      "match": "yes"
+    },
+    {
+      "key": "scale.githubTotal",
+      "node": 21342,
+      "python": 21342,
+      "match": "yes"
+    },
+    {
+      "key": "scale.npmTotal",
+      "node": 9195,
+      "python": 9195,
+      "match": "yes"
+    },
+    {
+      "key": "scale.shopCount",
+      "node": 15872,
+      "python": 15872,
+      "match": "yes"
+    },
+    {
+      "key": "scale.shopDeclaredCaps",
+      "node": 16,
+      "python": 16,
+      "match": "yes"
+    },
+    {
+      "key": "stars.median",
+      "node": 2,
+      "python": 2.0,
+      "match": "yes"
+    },
+    {
+      "key": "stars.p90",
+      "node": 19,
+      "python": 19.0,
+      "match": "yes"
+    },
+    {
+      "key": "stars.lt10",
+      "node": 5016,
+      "python": 5016,
+      "match": "yes"
+    },
+    {
+      "key": "stars.zero",
+      "node": 1658,
+      "python": 1658,
+      "match": "yes"
+    },
+    {
+      "key": "stars.top1pctShare",
+      "node": 0.8672518577613639,
+      "python": 0.8672518577613639,
+      "match": "yes"
+    },
+    {
+      "key": "downloads.bothPositive",
+      "node": 2370,
+      "python": 2370,
+      "match": "yes"
+    },
+    {
+      "key": "downloads.spearman",
+      "node": 0.5029795231497985,
+      "python": 0.5029795231497985,
+      "match": "yes"
+    },
+    {
+      "key": "downloads.top5Overlap",
+      "node": 0,
+      "python": 0,
+      "match": "yes"
+    },
+    {
+      "key": "downloads.downloadsNull",
+      "node": 2970,
+      "python": 2970,
+      "match": "yes"
+    },
+    {
+      "key": "subdir.count",
+      "node": 625,
+      "python": 625,
+      "match": "yes"
+    },
+    {
+      "key": "subdir.inStarTop50",
+      "node": 27,
+      "python": 27,
+      "match": "yes"
+    },
+    {
+      "key": "trust.scanned",
+      "node": 5552,
+      "python": 5552,
+      "match": "yes"
+    },
+    {
+      "key": "trust.unscanned",
+      "node": 532,
+      "python": 532,
+      "match": "yes"
+    },
+    {
+      "key": "trust.credNetChip",
+      "node": 563,
+      "python": 563,
+      "match": "yes"
+    },
+    {
+      "key": "trust.credNetRed",
+      "node": 503,
+      "python": 503,
+      "match": "yes"
+    },
+    {
+      "key": "trust.unionCredNet",
+      "node": 598,
+      "python": 598,
+      "match": "yes"
+    },
+    {
+      "key": "trust.anyRed",
+      "node": 626,
+      "python": 626,
+      "match": "yes"
+    },
+    {
+      "key": "trust.postinstall",
+      "node": 23,
+      "python": 23,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.credentials",
+      "node": 624,
+      "python": 624,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.dynamic-code",
+      "node": 298,
+      "python": 298,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.env",
+      "node": 3105,
+      "python": 3105,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.fs-read",
+      "node": 3963,
+      "python": 3963,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.fs-write",
+      "node": 3083,
+      "python": 3083,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.host-runtime",
+      "node": 427,
+      "python": 427,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.llm",
+      "node": 509,
+      "python": 509,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.network",
+      "node": 3128,
+      "python": 3128,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.shell",
+      "node": 2067,
+      "python": 2067,
+      "match": "yes"
+    },
+    {
+      "key": "trust.capCounts.subagent",
+      "node": 135,
+      "python": 135,
+      "match": "yes"
+    }
+  ]
+}

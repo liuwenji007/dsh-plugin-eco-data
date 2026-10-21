@@ -1,0 +1,70 @@
+{
+  "id": "F-21",
+  "title": "目录按 added 的周增长",
+  "generatedAt": "2026-10-20T10:42:12.356Z",
+  "evidence": "A",
+  "numbers": {
+    "source": "awesome plugins[].added",
+    "catalogUpdated": "2026-10-19",
+    "n": 6084,
+    "missingAdded": 0,
+    "rows": [
+      {
+        "week": "2026-W33",
+        "added": 1011,
+        "cumulative": 1011
+      },
+      {
+        "week": "2026-W34",
+        "added": 1003,
+        "cumulative": 2014
+      },
+      {
+        "week": "2026-W35",
+        "added": 775,
+        "cumulative": 2789
+      },
+      {
+        "week": "2026-W36",
+        "added": 480,
+        "cumulative": 3269
+      },
+      {
+        "week": "2026-W37",
+        "added": 301,
+        "cumulative": 3570
+      },
+      {
+        "week": "2026-W38",
+        "added": 433,
+        "cumulative": 4003
+      },
+      {
+        "week": "2026-W39",
+        "added": 326,
+        "cumulative": 4329
+      },
+      {
+        "week": "2026-W40",
+        "added": 42,
+        "cumulative": 4371
+      },
+      {
+        "week": "2026-W41",
+        "added": 108,
+        "cumulative": 4479
+      },
+      {
+        "week": "2026-W42",
+        "added": 1462,
+        "cumulative": 5941
+      },
+      {
+        "week": "2026-W43",
+        "added": 143,
+        "cumulative": 6084
+      }
+    ]
+  },
+  "note": "added 是目录收录日期，不是 git 活跃。W42 一周 1,462 条像是集中补录。"
+}

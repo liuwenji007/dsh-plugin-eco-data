@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-10-20T10:41:52.000Z",
+  "seed": 20261020,
+  "n": 100,
+  "frameSize": 314,
+  "githubTotal": 21342,
+  "githubFetched": 1000,
+  "note": "GitHub search API only returns the first 1000 by stars, so the frame is high-star biased.",
+  "prefetch": true
+}

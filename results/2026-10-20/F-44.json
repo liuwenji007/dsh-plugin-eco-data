@@ -1,0 +1,32 @@
+{
+  "id": "F-44",
+  "generatedAt": "2026-10-21T13:38:18.326Z",
+  "title": "命中至少一条红线",
+  "numbers": {
+    "n": 626,
+    "pct": 0.1127521613832853
+  },
+  "evidence": "A",
+  "inputSha256": {
+    "awesome-plugins.json": {
+      "bytes": 7603915,
+      "sha256": "a83a68437faf286fd6f91cc09d40a62a12ce36db7702fac0b27a55a92ad0c395"
+    },
+    "shop-plugins.json": {
+      "bytes": 15718615,
+      "sha256": "c2fc6c02e4e752d4b5cbb9c24b54e53f0b5e28249621e300c9ece4bf73cb28e5"
+    },
+    "shop-index.json": {
+      "bytes": 487,
+      "sha256": "99969ec10cb1a43983a28df3f8604c2aa61051cbaea29a45ea97e0808ba61ccf"
+    },
+    "github-topic-search.json": {
+      "bytes": 734246,
+      "sha256": "7a7e4539b41f74ecc075850b8295ec01628eb367655f76cafefa8e9f279d34d5"
+    },
+    "npm-search.json": {
+      "bytes": 9376828,
+      "sha256": "505f13b674d33c10bfe6d4663ea9b75287534b9f50dafdee85d3575176cf81ec"
+    }
+  }
+}

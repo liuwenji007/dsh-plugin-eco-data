@@ -1,0 +1,6 @@
+# Raw snapshots are not published. Keep MANIFEST.md.
+snapshots/*/*.json
+sources/
+.tmp/
+node_modules/
+.DS_Store

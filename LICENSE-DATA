@@ -1,0 +1,10 @@
+The derived numbers, tables, and charts in this repository
+(results/, charts/, sampling annotations) are licensed under
+Creative Commons Attribution 4.0 International.
+
+https://creativecommons.org/licenses/by/4.0/
+
+Upstream sources keep their own licenses:
+- awesome-dsh-plugin catalog: CC0-1.0
+- LivXue dsh-plugin-shop: Apache-2.0
+- GitHub search results and npm registry search results: follow those services' terms

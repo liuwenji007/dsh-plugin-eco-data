@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-20",
+  "scale": {
+    "awesomeCount": 6084,
+    "awesomeCountField": 6084,
+    "awesomeUpdated": "2026-10-19",
+    "uniqueRepos": 5867,
+    "subdir": 625,
+    "added": {
+      "min": "2026-08-13",
+      "max": "2026-10-19",
+      "days": 68
+    },
+    "perDay": 89.47058823529412,
+    "uniqueNames": 5641,
+    "nameGap": 443,
+    "githubTotal": 21342,
+    "githubFetched": 1000,
+    "githubTop50InCatalog": 20,
+    "npmTotal": 9195,
+    "shopCount": 15872,
+    "shopIndexCount": 15872,
+    "shopRejected": 19674,
+    "shopDeclaredCaps": 16
+  },
+  "stars": {
+    "n": 5936,
+    "median": 2.0,
+    "p90": 19.0,
+    "lt10": 5016,
+    "zero": 1658,
+    "top1pctShare": 0.8672518577613639,
+    "top1pctCount": 59
+  },
+  "downloads": {
+    "bothPositive": 2370,
+    "spearman": 0.5029795231497985,
+    "top5Overlap": 0,
+    "downloadsNull": 2970,
+    "hasNumericDownloads": 3114
+  },
+  "subdir": {
+    "count": 625,
+    "inStarTop50": 27
+  },
+  "trust": {
+    "scanned": 5552,
+    "unscanned": 532,
+    "credNetChip": 563,
+    "credNetRed": 503,
+    "unionCredNet": 598,
+    "anyRed": 626,
+    "postinstall": 23,
+    "capCounts": {
+      "fs-read": 3963,
+      "network": 3128,
+      "fs-write": 3083,
+      "env": 3105,
+      "shell": 2067,
+      "credentials": 624,
+      "llm": 509,
+      "host-runtime": 427,
+      "dynamic-code": 298,
+      "subagent": 135
+    }
+  }
+}

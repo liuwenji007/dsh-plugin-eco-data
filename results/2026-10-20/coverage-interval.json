@@ -1,0 +1,16 @@
+{
+  "csv": "sampling/coverage-2026-10-20.csv",
+  "n": 100,
+  "yes": 58,
+  "no": 42,
+  "unsure": 0,
+  "unlabeled": 0,
+  "amongLabeledPluginShare": {
+    "n": 100,
+    "successes": 58,
+    "p": 0.58,
+    "low": 0.48206307998895265,
+    "high": 0.6720177508148869
+  },
+  "note": "Share of sampled off-catalog GitHub-topic repos labeled related to DSH. Not a point estimate of catalog coverage. Frame is the first 1000 GitHub search hits by stars, minus those already in the catalog or shop."
+}
