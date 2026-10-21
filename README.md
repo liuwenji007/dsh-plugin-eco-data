@@ -16,7 +16,7 @@
 
 这些都是社区维护的第三方，不是 DeepSeek / 官方宿主的收录或背书。
 
-| 来源 | 许可证 | 本周数字 |
+| 来源 | 许可证 | 2026-10-20 快照 |
 |---|---|---|
 | [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 目录 | CC0-1.0 | 6,084 条 |
 | [LivXue shop](https://github.com/LivXue/dsh-plugin-shop) | Apache-2.0 | 15,872 条收录 |
@@ -42,13 +42,13 @@ SNAPSHOT_DATE=YYYY-MM-DD python3 checks/compute.py
 SNAPSHOT_DATE=YYYY-MM-DD python3 checks/reconcile.py
 ```
 
-需要 2026-10-20 那份原始快照的话，可以开 issue。这里不托管原始文件，避免再发一份带风险提示名单的目录副本。
+需要 2026-10-20 那份原始快照的话，可以开 issue。原始目录数据里有逐个插件的风险提示，这里不再转发一份。
 
-## 不做什么
+## 范围
 
-- 不点名命中风险提示的插件。
-- 不给安全评级，也不比较扫描器。
-- 不把任一来源写成官方生态或官方收录。
+- 只给条数和比例，不点名命中风险提示的插件。
+- 不给安全评级，也不比较不同扫描器。
+- 各来源都是第三方，不代表官方生态或官方收录。
 
 ## 许可
 
