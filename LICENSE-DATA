@@ -8,3 +8,7 @@ Upstream sources keep their own licenses:
 - awesome-dsh-plugin catalog: CC0-1.0
 - LivXue dsh-plugin-shop: Apache-2.0
 - GitHub search results and npm registry search results: follow those services' terms
+
+The `description` column in `sampling/coverage-*.csv` quotes GitHub repository
+descriptions. Those texts remain copyright of their authors and are not
+covered by CC BY 4.0.

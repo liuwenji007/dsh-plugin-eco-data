@@ -43,6 +43,6 @@ writeFileSync(join(dir, 'F-21.json'), `${JSON.stringify({
     missingAdded: plugins.filter(p => !p.added).length,
     rows,
   },
-  note: 'added is the catalog record date, not git activity. W42 looks like a backfill.',
+  note: 'added 是目录收录日期，不是 git 活跃。W42 一周 1,462 条像是集中补录。',
 }, null, 2)}\n`)
 console.log(csv)

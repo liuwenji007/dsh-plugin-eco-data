@@ -72,7 +72,6 @@ export function sampleCoverage({ prefetch = false, date = snapshotDate() } = {})
       html_url: r.html_url,
       stars: r.stargazers_count,
       description: (r.description ?? '').replace(/[\r\n]+/g, ' ').slice(0, 180),
-      moc_verdict: '',
       has_dsh_field: hasDshField,
       has_cordis_patch: hasCordis,
       readme_mentions_dsh: readmeMentionsDsh,
@@ -82,7 +81,7 @@ export function sampleCoverage({ prefetch = false, date = snapshotDate() } = {})
   })
   const header = [
     'i', 'full_name', 'html_url', 'stars', 'description',
-    'moc_verdict', 'has_dsh_field', 'has_cordis_patch', 'readme_mentions_dsh',
+    'has_dsh_field', 'has_cordis_patch', 'readme_mentions_dsh',
     'label', 'notes',
   ]
   const csv = [

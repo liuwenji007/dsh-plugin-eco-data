@@ -34,7 +34,8 @@ function splitCsvLine(line) {
 }
 
 const date = snapshotDate()
-const csvPath = join(ROOT, 'sampling', `coverage-${date}.csv`)
+const csvRel = `sampling/coverage-${date}.csv`
+const csvPath = join(ROOT, csvRel)
 const rows = parseCsv(readFileSync(csvPath, 'utf8'))
 const labels = rows.map(r => r.label.trim().toLowerCase())
 const yes = labels.filter(x => x === '是' || x === 'yes' || x === 'y').length
@@ -44,7 +45,7 @@ const labeled = yes + no
 const interval = wilsonInterval(yes, labeled)
 
 const out = {
-  csv: csvPath,
+  csv: csvRel,
   n: rows.length,
   yes,
   no,

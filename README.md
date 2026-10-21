@@ -42,7 +42,7 @@ SNAPSHOT_DATE=YYYY-MM-DD python3 checks/compute.py
 SNAPSHOT_DATE=YYYY-MM-DD python3 checks/reconcile.py
 ```
 
-需要 2026-10-20 那份原始快照的话，可以开 issue 或发邮件联系我。这里不托管原始文件，避免再发一份带风险提示名单的目录副本。
+需要 2026-10-20 那份原始快照的话，可以开 issue。这里不托管原始文件，避免再发一份带风险提示名单的目录副本。
 
 ## 不做什么
 
